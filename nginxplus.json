@@ -1,0 +1,28 @@
+[
+{
+"targets": [
+      "172.18.191.220:9113"
+    ],
+    "labels": {
+      "job": "qac_nginxplus"
+    }
+  },
+{
+"targets": [
+      "172.18.191.88:9113"
+    ],
+    "labels": {
+      "job": "qa_nginxplus"
+    }
+  },
+{
+"targets": [
+      "172.18.191.80:9113"
+    ],
+    "labels": {
+      "job": "qac-onnet_nginxplus"
+    }
+  }
+
+]
+
